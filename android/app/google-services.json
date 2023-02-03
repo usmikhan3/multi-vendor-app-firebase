@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1075899688294",
+    "project_id": "multi-vendor-ecommerce-f405b",
+    "storage_bucket": "multi-vendor-ecommerce-f405b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075899688294:android:3aa17968aa7849cea594a7",
+        "android_client_info": {
+          "package_name": "com.appsbymuk.multi_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075899688294-q514m6r61l4fg6r26v75o794vundk5m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvHJfe3miZW4BuJqXgc2NQ2RFC-5iYagk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075899688294-q514m6r61l4fg6r26v75o794vundk5m7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075899688294-434dd3lisdt68brqbc4u64vqbjhh0nqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsbymuk.multiVendor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
